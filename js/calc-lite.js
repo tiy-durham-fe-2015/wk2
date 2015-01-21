@@ -12,6 +12,11 @@ function add() {
   alert(x + y);
 }
 
+// divide alerts x / y
+function divide() {
+  alert(x / y);
+}
+
 // subtract simply alerts the value of x - y
 function subtract() {
   alert(x - y);
@@ -28,3 +33,21 @@ function setX(xString) {
 function setY(yString) {
   y = Number(yString);
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+///
